@@ -1,0 +1,1 @@
+//Only can be done by detecting the extension and disabling it
